@@ -1,0 +1,22 @@
+{
+  "name": "parcialwaltercarbone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalterCarbone/parcialWalterCarbone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalterCarbone/parcialWalterCarbone/issues"
+  },
+  "homepage": "https://github.com/WalterCarbone/parcialWalterCarbone#readme"
+}
